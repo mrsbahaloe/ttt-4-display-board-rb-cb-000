@@ -6,4 +6,3 @@ def display_board(board = ["o", "x", " ", " ", "x", " ", "x", "o", " "])
   puts "#{board[7]}"|"#{board[8]}"|"#{board[9]}"
 end
 display_board
-
